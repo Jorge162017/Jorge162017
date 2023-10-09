@@ -1,7 +1,9 @@
 <h1 align="center">Hi 👋, I'm Jorge Lopez</h1>
 <h3 align="center">A passionate mobile platform developer.</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jorge162017" alt="jorge162017" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jorge162017"=ryo-ma&theme=matrix
+ alt="jorge162017" /></a> </p>
+
 
 - 👨🏽‍💻 I’m currently working on **X3**
 
