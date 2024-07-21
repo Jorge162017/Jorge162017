@@ -85,5 +85,5 @@ I am a Computer Science Engineering student at UVG, passionate about programming
 </div>
 
 <p align="center">
- <img width="1000" src="Downloads/snake.svg" alt="snake"/>
+ <img width="1000" src="download/snake.svg" alt="snake"/>
 </p>
