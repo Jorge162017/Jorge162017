@@ -63,26 +63,31 @@ I am a Computer Science Engineering student at UVG, passionate about programming
 
 
   
-<p align="center">
-  <img width="800" height="220" src="https://streak-stats.demolab.com?user=Andyfer004&theme=highcontrast&hide_border=true&border_radius=5&card_width=800">
+<p align="left">
+  <a href="https://github.com/Jorge162017?tab=repositories" target="_blank"><img alt="All Repositories" title="All Repositories" src="https://img.shields.io/badge/-All%20Repos-2962FF?style=for-the-badge&logo=koding&logoColor=white"/></a>
 </p>
 
-
----
-
-
-
+<br/>
+<hr/>
+<br/>
 
 <p align="center">
-  <img width="600" height="200" src="https://github-readme-stats.vercel.app/api?username=Jorge162017&show_icons=true&theme=vision-friendly-dark">
-  <img width="400" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jorge162017&size_weight=0.0005&count_weight=0.3&layout=compact&theme=vision-friendly-dark">
+  <a href="https://github.com/Jorge162017">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Jorge162017&theme=radical&border=7F3FBF&background=0D1117" alt="Jorge's GitHub streak"/>
+  </a>
 </p>
- 
 
+<p align="center">
+  <a href="https://github.com/Jorge162017">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Jorge162017&theme=radical" alt="Jorge's GitHub Contribution"/>
+  </a>
+</p>
 
-<div id="header" align="center">
-  <img src="https://komarev.com/ghpvc/?username=Andyfer004&style=for-the-badge&color=orange" alt=""/>
-</div>
+<a> 
+    <a href="https://github.com/Jorge162017"><img alt="Jorge's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=Jorge162017&show_icons=true&count_private=true&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
+  <a href="https://github.com/Jorge162017"><img alt="Jorge's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=Jorge162017&langs_count=8&layout=compact&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
+  <br/>
+</a>
 
 <p align="center">
  <img width="1000" src="download/snake.svg" alt="snake"/>
